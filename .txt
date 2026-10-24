@@ -47,6 +47,13 @@ json
   "role": ["user"]
 }
 
+{
+  "username": "auditor1",
+  "email": "auditor1@unicauca.edu.co",
+  "password": "1234567",
+  "role": ["auditor"]
+}
+
 
 FASE 2: Acceder a API pública (Prueba 4)
 Method: GET
